@@ -1,0 +1,4 @@
+ADMIN LOGIN = 
+
+UID    = admin
+PWD  = admin
